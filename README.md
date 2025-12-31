@@ -17,4 +17,5 @@ Building projects step by step
 
 ## 📊 GitHub Stats
 
-![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=0sai-charan0&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0sai-charan0&show_icons=true&count_private=true)
+
