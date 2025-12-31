@@ -22,9 +22,3 @@ Building projects step by step
 ## 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-charan-kattempudi-a90874370/)
-
----
-
-## 🏆 GitHub Trophy
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=0sai-charan0&margin-w=10)
