@@ -1,5 +1,5 @@
 # About me
-I am Learning about Python and web fundamentals.  
+I am Learning about Python and Web fundamentals.  
 Currently focused on learning by building small projects.  
 Aspiring web developer, improving step by step.
 
