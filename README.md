@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">🧠Security Researcher | Adversary Simulation </h2>
+<h2 align="left">🧠Offensive Security Researcher </h2>
 
 ###
 
